@@ -1,0 +1,10 @@
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\bin\Debug\CalculadoraProyecto1.exe.config
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\bin\Debug\CalculadoraProyecto1.exe
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\bin\Debug\CalculadoraProyecto1.pdb
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.csprojAssemblyReference.cache
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.Form1.resources
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.Properties.Resources.resources
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.csproj.GenerateResource.cache
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.csproj.CoreCompileInputs.cache
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.exe
+C:\Users\eleanor garage\source\repos\CalculadoraProyecto1\CalculadoraProyecto1\obj\Debug\CalculadoraProyecto1.pdb
